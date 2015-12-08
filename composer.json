@@ -1,6 +1,6 @@
 {
     "name": "bobsbg/yii2-oci2pdo",
-    "description": "Emulation of the PDO driver by means of OCI8",
+    "description": "Yii2 extension to simulate a PDO connection to Oracle database using PHP OCI8",
     "type": "yii2-extension",
     "keywords": ["yii2","oci8","pdo"],
     "license": "MIT",
