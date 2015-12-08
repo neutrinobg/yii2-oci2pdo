@@ -1,0 +1,25 @@
+{
+    "name": "bobsbg/yii2-oci2pdo",
+    "description": "Emulation of the PDO driver by means of OCI8",
+    "type": "yii2-extension",
+    "keywords": ["yii2","oci8","pdo"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Tonkin",
+            "email": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "https://github.com/neutrinobg/yii2-oci2pdo/issues"
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bobsbg\\oci2pdo\\": ""
+        }
+    }
+}
