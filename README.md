@@ -2,7 +2,7 @@
 Yii2 extension with Oracle PDO adapter using PHP OCI8
 # Usage / configuration
 
-...php
+```php
 'db' => [
     'class' => 'bobsbg\oci2pdo\OciDbConnection',
     'dsn' => 'oci:dbname=DBNAME;charset=UTF8',
@@ -10,4 +10,4 @@ Yii2 extension with Oracle PDO adapter using PHP OCI8
     'password' => 'tiger',
     'charset' => 'utf8',
 ],
-...
+```
