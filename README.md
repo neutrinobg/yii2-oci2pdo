@@ -8,12 +8,12 @@ The preferred way to install this extension is through composer.
 Either run
 
 ```
-php composer.phar require apaoww/yii2-oci8 "dev-master"
+php composer.phar require bobsbg/yii2-oci2pdo
 ```
 or add
 
 ```
-"apaoww/yii2-oci8": "dev-master"
+"bobsbg/yii2-oci2pdo": "*"
 ```
 to the require section of your composer.json file.
 
