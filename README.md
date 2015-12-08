@@ -1,5 +1,5 @@
 # yii2-oci2pdo
-Yii2 extension with Oracle PDO adapter using PHP OCI8
+Yii2 extension to simulate a PDO connection to Oracle database using PHP OCI8
 # Usage / configuration
 
 ```php
