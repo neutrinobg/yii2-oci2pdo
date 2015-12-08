@@ -6,12 +6,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Tonkin",
-            "email": ""
+            "name": "Alexander Tonkin"
         }
     ],
     "support": {
-        "email": "",
         "issues": "https://github.com/neutrinobg/yii2-oci2pdo/issues"
     },
     "require": {
