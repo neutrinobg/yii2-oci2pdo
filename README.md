@@ -1,3 +1,7 @@
+[![Latest Stable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/stable.svg)](https://packagist.org/packages/bobsbg/yii2-oci2pdo)
+[![Total Downloads](https://poser.pugx.org/buonzz/laravel-4-freegeoip/downloads.svg)](https://packagist.org/packages/bobsbg/yii2-oci2pdo)
+[![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://packagist.org/packages/bobsbg/yii2-oci2pdo)
+
 # yii2-oci2pdo
 Yii2 extension to simulate a PDO connection to Oracle database using PHP OCI8
 
