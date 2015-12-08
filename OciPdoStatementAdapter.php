@@ -2,6 +2,8 @@
 
 namespace bobsbg\oci2pdo;
 
+use \yii\db\Exception;
+
 /**
  * OciPdoStatementAdapter class to simulate PDOStatement with OCI
  * @author atonkin
