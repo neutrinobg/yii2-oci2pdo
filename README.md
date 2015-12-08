@@ -1,6 +1,7 @@
 # yii2-oci2pdo
 Yii2 extension with Oracle PDO adapter using PHP OCI8
 # Usage / configuration
+
 ...php
 'db' => [
     'class' => 'bobsbg\oci2pdo\OciDbConnection',
