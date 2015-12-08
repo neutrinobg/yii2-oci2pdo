@@ -2,7 +2,7 @@
     "name": "bobsbg/yii2-oci2pdo",
     "description": "Yii2 extension to simulate a PDO connection to Oracle database using PHP OCI8",
     "type": "yii2-extension",
-    "keywords": ["yii2","oci8","pdo"],
+    "keywords": ["yii2","oci8","oci","pdo","php","oracle"],
     "license": "MIT",
     "authors": [
         {
