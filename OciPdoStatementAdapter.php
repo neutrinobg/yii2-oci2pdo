@@ -564,7 +564,7 @@ class OciPdoStatementAdapter implements \Iterator {
 		if ($res === false) {
 			return false;
 		}
-		elseif (!isset($res[$column_number])) {
+		elseif (!array_key_exists($column_number, $res)) {
 			return false;
 		}
 		else {
